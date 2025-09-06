@@ -1,4 +1,4 @@
-# yogadi-ClockApp.py
+# yogadi-Digital_Clock_App
 Digital Clock (Tkinter) <br>
 Short description <br>
 A small desktop digital clock application built with Python's tkinter. It displays the current time and date and updates every second. <br>
